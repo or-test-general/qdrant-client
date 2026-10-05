@@ -187,3 +187,4 @@ message ValuesCount {
 }
 message ScanTestH7 {}
 message ScanTestRerunH7 {}
+message ScanTestRerunP2 {}
