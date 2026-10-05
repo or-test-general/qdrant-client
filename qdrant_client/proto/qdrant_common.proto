@@ -185,3 +185,4 @@ message ValuesCount {
   optional uint64 gte = 3;
   optional uint64 lte = 4;
 }
+message ScanTestH7 {}
